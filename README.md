@@ -1,2 +1,4 @@
 # hello-world
-this is my first github repository or i think that is what this is called. Anyway it will be useful to know how to use this for school projects and work if i ever get anymore work
+now im supposed to write something about myself like how screwed I am in a 
+couple dayhs when i get sick but there is nothing i can do about it then
+and if I cant find videos to watch i can watch online courses
